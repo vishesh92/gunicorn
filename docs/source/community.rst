@@ -20,7 +20,7 @@ Gunicorn users.
 The archive for this list can also be `browsed online
 <http://lists.gunicorn.org/user>`_ .
 
-Irc
+IRC
 ===
 
 The Gunicorn channel is on the `Freenode <http://freenode.net/>`_ IRC
